@@ -14,13 +14,6 @@ spring:
 
 logging:
   level:
-    org:
-      springframework:
-        transaction:
-          interceptor: TRACE
-      hibernate:
-        type:
-          descriptor:
-            sql:
-              BasicBinder: TRACE
-        SQL: DEBUG
+    org.springframework.transaction.interceptor: trace
+    org.hibernate.type.descriptor.sql.BasicBinder: trace
+    org.hibernate.SQL: debug

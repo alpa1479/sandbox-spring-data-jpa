@@ -1,7 +1,7 @@
 package edu.sandbox.springdatajpa.relationships.onetoone.shell;
 
 import edu.sandbox.springdatajpa.relationships.onetoone.repository.BookRepository;
-import edu.sandbox.springdatajpa.relationships.onetoone.util.JsonPrettyFormatter;
+import edu.sandbox.springdatajpa.relationships.onetoone.shell.formatter.JsonPrettyFormatter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;

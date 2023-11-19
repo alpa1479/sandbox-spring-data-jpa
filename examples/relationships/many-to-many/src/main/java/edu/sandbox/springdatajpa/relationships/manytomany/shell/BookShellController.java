@@ -1,7 +1,7 @@
 package edu.sandbox.springdatajpa.relationships.manytomany.shell;
 
 import edu.sandbox.springdatajpa.relationships.manytomany.repository.BookRepository;
-import edu.sandbox.springdatajpa.relationships.manytomany.util.JsonPrettyFormatter;
+import edu.sandbox.springdatajpa.relationships.manytomany.shell.formatter.JsonPrettyFormatter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;

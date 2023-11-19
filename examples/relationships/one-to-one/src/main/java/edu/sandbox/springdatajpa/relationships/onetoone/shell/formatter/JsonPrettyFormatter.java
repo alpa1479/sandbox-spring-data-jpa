@@ -1,4 +1,4 @@
-package edu.sandbox.springdatajpa.relationships.onetoone.util;
+package edu.sandbox.springdatajpa.relationships.onetoone.shell.formatter;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

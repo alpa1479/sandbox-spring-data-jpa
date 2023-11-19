@@ -1,7 +1,7 @@
 package edu.sandbox.springdatajpa.relationships.onetomany.shell;
 
 import edu.sandbox.springdatajpa.relationships.onetomany.repository.AuthorRepository;
-import edu.sandbox.springdatajpa.relationships.onetomany.util.JsonPrettyFormatter;
+import edu.sandbox.springdatajpa.relationships.onetomany.shell.formatter.JsonPrettyFormatter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;

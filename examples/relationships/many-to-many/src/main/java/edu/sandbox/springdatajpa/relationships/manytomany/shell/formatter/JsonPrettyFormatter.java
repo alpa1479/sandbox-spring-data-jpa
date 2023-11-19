@@ -1,4 +1,4 @@
-package edu.sandbox.springdatajpa.relationships.manytomany.util;
+package edu.sandbox.springdatajpa.relationships.manytomany.shell.formatter;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
