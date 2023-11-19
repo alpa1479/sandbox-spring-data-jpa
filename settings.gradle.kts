@@ -10,6 +10,10 @@ pluginManagement {
     }
 }
 
-include("examples:relationships:many-to-many")
-include("examples:relationships:one-to-many")
-include("examples:relationships:one-to-one")
+include("examples:relationships:bidirectional:many-to-many")
+include("examples:relationships:bidirectional:one-to-many")
+include("examples:relationships:bidirectional:one-to-one")
+
+include("examples:relationships:unidirectional:many-to-many")
+include("examples:relationships:unidirectional:one-to-many")
+include("examples:relationships:unidirectional:one-to-one")
