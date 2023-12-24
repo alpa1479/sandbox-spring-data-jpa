@@ -11,6 +11,10 @@ spring:
     hibernate:
       # Property to enable ddl validation by Hibernate
       ddl-auto: validate
+    properties:
+      hibernate:
+        format_sql: true
+        highlight_sql: true
 
 logging:
   level:
