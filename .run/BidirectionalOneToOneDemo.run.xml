@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BidirectionalOneToOneDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="sandbox-spring-data-jpa.examples.relationships.bidirectional.one-to-one.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="edu.sandbox.springdatajpa.relationships.bidirectional.onetoone.BidirectionalOneToOneDemo" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="edu.sandbox.springdatajpa.relationships.bidirectional.onetoone.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
